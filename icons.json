@@ -1,0 +1,8 @@
+[
+    { "icon": "fab fa-github", "color": "#ffffff", "size": 40, "link": "https://github.com" },
+    { "icon": "fab fa-google", "color": "#4285F4", "size": 40, "link": "https://www.google.com" },
+    { "icon": "fab fa-twitter", "color": "#1DA1F2", "size": 40, "link": "https://twitter.com" },
+    { "icon": "fab fa-youtube", "color": "#FF0000", "size": 40, "link": "https://youtube.com" },
+    { "icon": "fab fa-reddit", "color": "#FF4500", "size": 40, "link": "https://reddit.com" },
+    { "icon": "fa-solid fa-comments", "color": "#ffffff", "size": 40, "link": "https://chatgpt.com"}
+]
