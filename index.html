@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zen</title>
-    <script src="https://kit.fontawesome.com/18f11d569c.js" crossorigin="anonymous"></script>
+    <script>
+        const FONT_AWESOME_URL = "https://kit.fontawesome.com/" + (window.ENV_FONT_AWESOME_KEY) + ".js";
+        document.write(`<script src="${FONT_AWESOME_URL}" crossorigin="anonymous"><\/script>`);
+    </script>
     <style>
         body {
             display: flex;
